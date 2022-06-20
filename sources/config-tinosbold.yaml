@@ -1,0 +1,9 @@
+buildVariable: false
+familyName: Noto Tinos-Bold
+googleFonts: true
+includeSubsets:
+- from: Noto Sans
+  name: GF_Latin_Core
+sources:
+- Tinos-Bold.glyphs
+- Tinos-BoldItalic.glyphs
